@@ -1,0 +1,28 @@
+body {
+  background-color: #c1efef;
+}
+.accordion {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 1cm;
+}
+.card {
+  margin-left: 1cm;
+}
+
+.danish {
+  padding-left: 2cm;
+  font-style: italic;
+  color: #056767;
+}
+.navbar {
+  background-color: rgb(37, 196, 196);
+  padding-top: 0.2cm;
+  max-width: 100%;
+}
+.carousel {
+  height: 5%;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
